@@ -1,18 +1,9 @@
 import React from "react";
-import './style.css';
-const SignUp =()=> {
-    const handleInput = () =>{
+import'./style.css';
+function HomePage(){
+    <div>
+        <p>hello world</p>
+    </div>
 
-    }
-    return(
-        <form className="container">
-            <h1>Sign Up</h1>
-            <div className="inputs">
-                <input type="text"placeholder="Name" onChange={handleInput} />
-                <input type="email"placeholder="email" onChange={handleInput} />
-                <input type="password"placeholder="password" onChange={handleInput} />
-            </div>
-            <button>SignUp</button>
-        </form>
-    )
 }
+export default HomePage;
