@@ -1,6 +1,8 @@
 const COLOR = {
     baseColor: "#023436",
     baseColorDark: "#01191a",
+    baseColor: "#062b98",
+    baseColorDark: "#05ae19",
     secondaryColor: "#F0F7F4",
     secondSecondaryColor: "#FAC748",
     whiteColor: "#FFFFFF",
@@ -8,4 +10,7 @@ const COLOR = {
     borderColor: "#dadada",
   };
   
-  export default COLOR;
+  
+
+
+export default COLOR;
